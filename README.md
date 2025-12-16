@@ -7,7 +7,9 @@ Arch linux 6.17.9 HP EliteBook 2170p.
 
 Useage:
 enable nmea location service in mmcli
+
 $ sudo mmcli -m 0 --location-enable-gps-nmea
 
 run python3
+
 $ python3 [location]/logger_v2.py
