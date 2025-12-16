@@ -1,4 +1,4 @@
-Broadband GPS logger, using NMEA format. Logs to a csv file, which you can upload to sites like gpsvisualizer.com
+Broadband GPS logger, using NMEA format (MBIM compatible). Logs to a csv file, which you can upload to sites like gpsvisualizer.com
 Logger2 is only hungarian for now, logger is a previous semi-working attempt at gps based tracking, which is available in english and hungarian.
 
 made and tested on:
